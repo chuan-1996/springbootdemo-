@@ -1,0 +1,77 @@
+13:34:46.316 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 4024 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+13:34:46.335 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+13:34:54.133 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 8.871 seconds (JVM running for 23.065)
+13:53:55.604 [main] INFO  c.e.b.BootdemoApplicationTests:50- Starting BootdemoApplicationTests on DESKTOP-BAONM0C with PID 7636 (started by qq491 in E:\code\php\bootdemo)
+13:53:55.607 [main] INFO  c.e.b.BootdemoApplicationTests:648- No active profile set, falling back to default profiles: default
+13:54:04.695 [main] INFO  c.e.b.BootdemoApplicationTests:59- Started BootdemoApplicationTests in 9.768 seconds (JVM running for 11.009)
+13:55:09.417 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 10668 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+13:55:09.424 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+13:55:17.997 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.349 seconds (JVM running for 17.318)
+13:56:24.276 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:56:25.109 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:56:35.177 [http-nio-8086-exec-9] INFO  c.e.b.listener.ShiroSessionListener:34- 127.0.0.1会话主动登出 cfb9cb84-0fdb-43f3-8caf-2745f9305daa
+14:04:14.801 [http-nio-8086-exec-7] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 2913ff5a-3d65-48f8-8c23-ba0063e5a064
+14:04:14.811 [http-nio-8086-exec-7] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:2913ff5a-3d65-48f8-8c23-ba0063e5a064 用户9登录了
+14:10:55.594 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 1508 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+14:10:55.611 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+14:11:05.089 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.21 seconds (JVM running for 23.328)
+14:11:06.372 [http-nio-8086-exec-9] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 b006fb2e-0bbe-49f2-9187-eb43d3bf53fc
+14:11:06.543 [http-nio-8086-exec-9] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+14:11:07.085 [http-nio-8086-exec-9] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+14:11:07.176 [http-nio-8086-exec-9] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:b006fb2e-0bbe-49f2-9187-eb43d3bf53fc 用户9登录了
+14:15:01.260 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13308 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+14:15:01.270 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+14:15:09.659 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.454 seconds (JVM running for 20.183)
+14:15:23.172 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 05cd03cd-6a97-4507-a33b-9274d76d4e67
+14:15:23.492 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+14:15:24.104 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+14:15:24.290 [http-nio-8086-exec-10] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:05cd03cd-6a97-4507-a33b-9274d76d4e67 用户9登录了
+14:16:41.306 [http-nio-8086-exec-8] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 1bcd0abd-f52f-4ea3-8366-3db4124f5f9e
+14:16:41.337 [http-nio-8086-exec-8] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:1bcd0abd-f52f-4ea3-8366-3db4124f5f9e 用户9登录了
+14:41:57.101 [http-nio-8086-exec-6] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 a67726af-06c5-404e-8c4f-4b0a87cb67c2
+14:41:57.122 [http-nio-8086-exec-6] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:a67726af-06c5-404e-8c4f-4b0a87cb67c2 用户9登录了
+14:42:02.368 [http-nio-8086-exec-5] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:a67726af-06c5-404e-8c4f-4b0a87cb67c2 用户8登录了
+15:17:45.740 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 10688 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:17:45.829 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:17:56.083 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.825 seconds (JVM running for 27.713)
+15:18:40.402 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 564415eb-ede2-4e6f-8214-12df0bb15430
+15:18:58.238 [http-nio-8086-exec-3] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 c7f92dff-e7db-46c0-8e28-1afe089ae33e
+15:19:59.907 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 5360 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:19:59.920 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:20:11.267 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 12.757 seconds (JVM running for 24.304)
+15:20:12.794 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 a0abab8e-e447-4bc4-892a-5ab89b7a027a
+15:21:13.735 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13468 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:21:13.741 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:21:22.592 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.86 seconds (JVM running for 21.318)
+15:21:26.642 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 f3dd02e7-4f94-4411-9860-c18c40b4d9f3
+15:22:29.780 [http-nio-8086-exec-5] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 0b496a86-7771-4bdb-a519-c210d40de4e3
+15:29:31.521 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14372 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:29:31.529 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:29:39.186 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 8.711 seconds (JVM running for 21.225)
+15:29:57.324 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 2933c0e3-760c-4f5f-96df-d415b7c217d4
+16:01:36.855 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 8612 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:01:36.870 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:01:45.783 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.114 seconds (JVM running for 21.271)
+16:01:52.499 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 524b8218-7067-4cbe-a9cc-e3ac09363a8a
+16:02:05.902 [http-nio-8086-exec-9] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 f33526f4-e62c-412e-b644-e3d5f986182b
+16:02:23.098 [http-nio-8086-exec-7] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 cdac9ae9-d934-4261-97a7-85d38cb8c341
+16:02:51.733 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14288 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:02:51.747 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:03:01.070 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.252 seconds (JVM running for 21.357)
+16:03:04.992 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 a54b720d-f1d2-454d-bd14-1a34b029a528
+16:03:23.612 [http-nio-8086-exec-9] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 f63ee5eb-da8a-498a-8216-daec4527cd03
+16:03:38.738 [http-nio-8086-exec-8] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 2114240d-750a-4415-9080-ae6d6caa41dd
+16:03:58.412 [http-nio-8086-exec-7] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 2fba019b-213e-46bc-9408-3d1962a8f116
+16:05:55.430 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14136 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:05:55.440 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:06:05.524 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.806 seconds (JVM running for 21.445)
+16:09:27.764 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 1c6ca50b-c62b-4f1f-a470-ad54620611a3
+17:05:31.734 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 1032 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+17:05:31.743 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+17:05:40.561 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.287 seconds (JVM running for 20.415)
+17:05:52.579 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 8cb46ec0-c404-4bdd-891c-30b95d3301b2
+17:06:17.046 [http-nio-8086-exec-3] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 0643bd96-684e-4e33-8abf-b196a50d1f17
+17:07:04.271 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13740 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+17:07:04.276 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+17:07:14.817 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.682 seconds (JVM running for 22.904)
+17:07:15.663 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 fe5b4f5c-98de-4ce1-8496-6bc0c754714c

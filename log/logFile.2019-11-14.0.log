@@ -1,0 +1,116 @@
+15:20:58.915 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 8908 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:20:59.001 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:21:08.262 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:21:08.788 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:21:14.855 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 17.734 seconds (JVM running for 40.924)
+15:22:00.630 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:26- 127.0.0.1建立会话 f807f2e9-089c-403a-8911-4ed819248cef
+15:22:12.013 [http-nio-8086-exec-3] INFO  c.e.b.controller.LoginController:45- 127.0.0.1 SessionID:f807f2e9-089c-403a-8911-4ed819248cef 用户8登录了
+15:33:59.819 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14124 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:33:59.832 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:34:08.307 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:34:08.818 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:34:15.676 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 17.242 seconds (JVM running for 30.42)
+15:35:51.792 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 12084 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:35:51.799 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:36:01.414 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:36:01.905 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:36:09.595 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 19.169 seconds (JVM running for 33.815)
+15:40:05.928 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 6196 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:40:05.934 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:40:14.094 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:40:14.838 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:40:22.921 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 18.601 seconds (JVM running for 32.771)
+15:42:30.001 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 10072 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:42:30.005 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:42:36.505 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:42:36.990 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:42:42.090 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.254 seconds (JVM running for 27.275)
+15:44:52.002 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14408 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:44:52.010 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:44:58.507 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:44:58.887 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:45:03.239 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 12.741 seconds (JVM running for 24.63)
+15:48:20.715 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 15132 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:48:20.726 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:48:27.132 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:48:27.531 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:48:32.937 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.409 seconds (JVM running for 25.64)
+16:03:38.453 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 1460 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:03:38.469 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:03:46.976 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:03:47.808 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:03:54.610 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 17.901 seconds (JVM running for 35.154)
+16:05:40.691 [http-nio-8086-exec-9] INFO  c.e.b.listener.ShiroSessionListener:26- 127.0.0.1建立会话 de739114-5b9f-48c6-8a65-9e8172383a23
+16:05:43.285 [http-nio-8086-exec-7] INFO  c.e.b.controller.LoginController:45- 127.0.0.1 SessionID:de739114-5b9f-48c6-8a65-9e8172383a23 用户8登录了
+16:20:49.259 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 4360 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:20:49.269 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:20:57.083 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:20:57.743 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:21:02.533 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 14.507 seconds (JVM running for 32.14)
+16:24:47.598 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 12876 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:24:47.608 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:24:54.581 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:24:54.949 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:25:02.319 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 15.819 seconds (JVM running for 30.217)
+16:36:30.907 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13464 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:36:30.914 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:36:37.160 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:36:37.579 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:36:41.492 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.959 seconds (JVM running for 24.091)
+16:38:04.813 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 16284 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:38:04.821 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:38:10.971 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:38:11.547 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:38:16.270 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 12.735 seconds (JVM running for 23.662)
+16:45:23.424 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 9444 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:45:23.429 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:45:30.447 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:45:30.861 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:45:35.426 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.674 seconds (JVM running for 28.228)
+16:46:23.063 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 12784 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:46:23.070 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:46:30.060 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:46:30.489 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:46:36.384 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 14.589 seconds (JVM running for 25.396)
+16:49:26.836 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 9188 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:49:26.845 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:49:32.811 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:49:33.630 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:49:39.346 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.803 seconds (JVM running for 25.066)
+16:53:21.552 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 16076 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:53:21.569 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:53:30.175 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:53:30.984 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:53:38.192 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 17.973 seconds (JVM running for 29.97)
+16:55:23.887 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 8900 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:55:23.903 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:55:30.056 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:55:30.429 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:55:36.668 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.853 seconds (JVM running for 26.345)
+17:00:18.246 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 15664 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+17:00:18.259 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+17:00:25.967 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+17:00:26.488 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+17:00:32.437 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 15.776 seconds (JVM running for 29.645)
+18:51:04.992 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 16028 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+18:51:05.001 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+18:51:15.809 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+18:51:16.534 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+18:51:23.072 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 19.673 seconds (JVM running for 33.108)
+18:52:54.756 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:26- 127.0.0.1建立会话 fdbbae12-0c6d-4ee8-af35-50c2f4c96407
+18:53:00.246 [http-nio-8086-exec-3] INFO  c.e.b.controller.LoginController:45- 127.0.0.1 SessionID:fdbbae12-0c6d-4ee8-af35-50c2f4c96407 用户8登录了
+18:54:04.533 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 17844 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+18:54:04.540 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+18:54:11.949 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+18:54:12.561 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+18:54:18.725 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 15.432 seconds (JVM running for 28.783)
+18:56:11.713 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 7952 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+18:56:11.724 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+18:56:18.387 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+18:56:18.906 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+18:56:24.232 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 13.465 seconds (JVM running for 26.152)
+18:58:02.372 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 18220 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+18:58:02.377 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+18:58:08.562 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+18:58:08.924 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+18:58:13.473 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 12.217 seconds (JVM running for 24.518)

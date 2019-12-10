@@ -1,0 +1,222 @@
+15:03:58.704 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 5940 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:03:58.782 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:04:07.970 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.391 seconds (JVM running for 21.115)
+15:04:39.628 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 496c2029-3d3a-4adf-8bfb-928b43d8b445
+15:04:39.716 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:115- 【注解：Around . 环绕前】方法环绕start.....
+15:04:39.718 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:55- 【注解：Before】------------------切面  before
+15:04:39.719 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:59- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test4
+15:04:39.720 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】HTTP_METHOD : POST
+15:04:39.721 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:61- 【注解：Before】IP : 127.0.0.1
+15:04:39.727 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:62- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.login4
+15:04:39.727 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:63- 【注解：Before】业务方法获得的参数=ARGS : [runoobkey]
+15:04:39.753 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:119- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@17ce319c
+15:04:39.754 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：After】方法最后执行.....
+15:04:39.755 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@17ce319c
+15:04:48.741 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:115- 【注解：Around . 环绕前】方法环绕start.....
+15:04:48.743 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:55- 【注解：Before】------------------切面  before
+15:04:48.743 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:59- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/login
+15:04:48.744 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】HTTP_METHOD : GET
+15:04:48.744 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:61- 【注解：Before】IP : 127.0.0.1
+15:04:48.745 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:62- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.LoginController.login2
+15:04:48.745 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:63- 【注解：Before】业务方法获得的参数=ARGS : []
+15:04:48.752 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:119- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@f796832
+15:04:48.754 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：After】方法最后执行.....
+15:04:48.755 [http-nio-8086-exec-3] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@f796832
+15:06:40.713 [http-nio-8086-exec-5] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 74fe825f-ed40-4823-92ed-6576a7fa9668
+15:06:40.726 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:115- 【注解：Around . 环绕前】方法环绕start.....
+15:06:40.727 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:55- 【注解：Before】------------------切面  before
+15:06:40.728 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:59- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/login
+15:06:40.728 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】HTTP_METHOD : POST
+15:06:40.728 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:61- 【注解：Before】IP : 127.0.0.1
+15:06:40.729 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:62- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.LoginController.login
+15:06:40.729 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:63- 【注解：Before】业务方法获得的参数=ARGS : [POSTMAN5, 123456, true, org.apache.shiro.web.servlet.ShiroHttpServletRequest@57cc162]
+15:06:40.781 [http-nio-8086-exec-5] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:06:41.174 [http-nio-8086-exec-5] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:06:41.273 [http-nio-8086-exec-5] INFO  c.e.b.controller.LoginController:47- 127.0.0.1 SessionID:74fe825f-ed40-4823-92ed-6576a7fa9668 用户9登录了
+15:06:41.506 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:119- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@d623718
+15:06:41.508 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：After】方法最后执行.....
+15:06:41.510 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@d623718
+15:23:53.999 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 12468 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+15:23:54.010 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+15:24:01.777 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 8.799 seconds (JVM running for 18.159)
+15:24:59.713 [http-nio-8086-exec-8] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 3d672a47-704c-482b-a4fb-6b2e9a2a3102
+15:24:59.908 [http-nio-8086-exec-8] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+15:25:00.703 [http-nio-8086-exec-8] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+15:25:00.803 [http-nio-8086-exec-8] INFO  c.e.b.controller.LoginController:47- 127.0.0.1 SessionID:3d672a47-704c-482b-a4fb-6b2e9a2a3102 用户9登录了
+15:25:14.124 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:89- 【注解：Around . 环绕前】方法环绕start.....
+15:25:14.125 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:47- 【注解：Before】------------------切面  before
+15:25:14.128 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:51- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/user/authc/whoami
+15:25:14.128 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:52- 【注解：Before】HTTP_METHOD : GET
+15:25:14.129 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:53- 【注解：Before】IP : 127.0.0.1
+15:25:14.132 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:54- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.UserController.userAllInfo
+15:25:14.133 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:55- 【注解：Before】业务方法获得的参数=ARGS : []
+15:25:14.170 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:93- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@1a4d958f
+15:25:14.171 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:81- 【注解：After】方法最后执行.....
+15:25:14.172 [http-nio-8086-exec-9] INFO  c.example.bootdemo.Aspect.LogAspect:65- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@1a4d958f
+16:01:12.716 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13060 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:01:12.734 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:01:20.310 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.466 seconds (JVM running for 20.21)
+16:01:30.485 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 5930337d-b73f-43c2-9983-e68ae0a980d1
+16:01:57.750 [http-nio-8086-exec-3] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:01:58.232 [http-nio-8086-exec-3] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:01:58.304 [http-nio-8086-exec-3] INFO  c.e.b.controller.LoginController:47- 127.0.0.1 SessionID:5930337d-b73f-43c2-9983-e68ae0a980d1 用户9登录了
+16:02:49.712 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 6196 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:02:49.723 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:02:58.446 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.902 seconds (JVM running for 20.887)
+16:03:11.083 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 88c56fa7-38a3-428a-a1b0-713f8f0abdc7
+16:03:11.196 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:100- 【注解：Around . 环绕前】方法环绕start.....
+16:03:11.197 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:58- 【注解：Before】------------------切面  before
+16:03:11.201 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:62- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test4
+16:03:11.202 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:63- 【注解：Before】HTTP_METHOD : POST
+16:03:11.203 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:64- 【注解：Before】IP : 127.0.0.1
+16:03:11.206 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:65- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.login4
+16:03:11.206 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:66- 【注解：Before】业务方法获得的参数=ARGS : [runoobkey]
+16:03:11.248 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:104- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@7ba141db
+16:03:11.251 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:92- 【注解：After】方法最后执行.....
+16:03:11.253 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.LogAspect:76- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@7ba141db
+16:03:16.493 [http-nio-8086-exec-2] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:03:16.837 [http-nio-8086-exec-2] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:03:16.903 [http-nio-8086-exec-2] INFO  c.e.b.controller.LoginController:47- 127.0.0.1 SessionID:88c56fa7-38a3-428a-a1b0-713f8f0abdc7 用户9登录了
+16:14:00.491 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 3716 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:14:00.498 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:14:10.250 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.885 seconds (JVM running for 20.538)
+16:14:33.760 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 a70b9995-7cec-4ba6-9a58-9befab50ffb9
+16:15:09.838 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 5000 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:15:09.859 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:15:17.945 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.09 seconds (JVM running for 19.293)
+16:15:24.254 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 ce88f514-9e32-4c51-9fa4-58974f583cf5
+16:15:33.158 [http-nio-8086-exec-2] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:15:33.945 [http-nio-8086-exec-2] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:15:34.014 [http-nio-8086-exec-2] INFO  c.example.bootdemo.shiro.CustomRealm:48- 用户POSTMAN5尝试访问非普通用户权限接口
+16:15:39.702 [http-nio-8086-exec-3] INFO  c.example.bootdemo.shiro.CustomRealm:48- 用户POSTMAN5尝试访问非普通用户权限接口
+16:15:43.396 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：Around . 环绕前】方法环绕start.....
+16:15:43.397 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】------------------切面  before
+16:15:43.399 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:64- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test1
+16:15:43.400 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:65- 【注解：Before】HTTP_METHOD : POST
+16:15:43.400 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:66- 【注解：Before】IP : 127.0.0.1
+16:15:43.404 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:67- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test1
+16:15:43.404 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:68- 【注解：Before】业务方法获得的参数=ARGS : []
+16:15:43.405 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:106- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@267b3069
+16:15:43.406 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:94- 【注解：After】方法最后执行.....
+16:15:43.407 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@267b3069
+16:23:14.075 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：Around . 环绕前】方法环绕start.....
+16:23:14.076 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】------------------切面  before
+16:23:14.077 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:64- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test1
+16:23:14.077 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:65- 【注解：Before】HTTP_METHOD : POST
+16:23:14.077 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:66- 【注解：Before】IP : 127.0.0.1
+16:23:14.078 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:67- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test1
+16:23:14.078 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:68- 【注解：Before】业务方法获得的参数=ARGS : []
+16:23:14.080 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:106- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@f515f98
+16:23:14.081 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:94- 【注解：After】方法最后执行.....
+16:23:14.082 [http-nio-8086-exec-6] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@f515f98
+16:27:19.359 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:102- 【注解：Around . 环绕前】方法环绕start.....
+16:27:19.361 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:60- 【注解：Before】------------------切面  before
+16:27:19.362 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:64- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test1
+16:27:19.363 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:65- 【注解：Before】HTTP_METHOD : POST
+16:27:19.364 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:66- 【注解：Before】IP : 127.0.0.1
+16:27:19.364 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:67- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test1
+16:27:19.365 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:68- 【注解：Before】业务方法获得的参数=ARGS : []
+16:27:19.367 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:106- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@581e658b
+16:27:19.369 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:94- 【注解：After】方法最后执行.....
+16:27:19.370 [http-nio-8086-exec-8] INFO  c.example.bootdemo.Aspect.LogAspect:78- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@581e658b
+16:56:40.476 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 12516 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+16:56:40.483 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+16:56:49.825 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 10.851 seconds (JVM running for 23.378)
+16:56:56.990 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 ed33e946-e371-4a8f-81a6-91a355cf3c49
+16:56:57.162 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:100- 【注解：Around . 环绕前】方法环绕start.....
+16:56:57.173 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:59- 【注解：Before】------------------切面  before
+16:56:57.176 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:63- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test1
+16:56:57.176 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:64- 【注解：Before】HTTP_METHOD : POST
+16:56:57.177 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:65- 【注解：Before】IP : 127.0.0.1
+16:56:57.180 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:66- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test1
+16:56:57.181 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:67- 【注解：Before】业务方法获得的参数=ARGS : []
+16:56:57.204 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:104- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@1c94daef
+16:56:57.205 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:92- 【注解：After】方法最后执行.....
+16:56:57.209 [http-nio-8086-exec-1] INFO  c.example.bootdemo.Aspect.TestAspect:76- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@1c94daef
+17:01:10.193 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 11440 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+17:01:10.212 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+17:01:21.432 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 12.431 seconds (JVM running for 21.884)
+17:02:21.711 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 204d4f09-6130-4f67-952d-9aa29b72a94c
+17:02:21.771 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:100- 【注解：Around . 环绕前】方法环绕start.....
+17:02:21.772 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:59- 【注解：Before】------------------切面  before
+17:02:21.776 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:63- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test1
+17:02:21.777 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:64- 【注解：Before】HTTP_METHOD : POST
+17:02:21.778 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:65- 【注解：Before】IP : 127.0.0.1
+17:02:21.782 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:66- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test1
+17:02:21.784 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:67- 【注解：Before】业务方法获得的参数=ARGS : []
+17:02:21.811 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:104- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@5c38df98
+17:02:21.812 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:92- 【注解：After】方法最后执行.....
+17:02:21.813 [http-nio-8086-exec-10] INFO  c.example.bootdemo.Aspect.TestAspect:76- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@5c38df98
+17:47:21.634 [SessionValidationThread-1] INFO  c.e.b.listener.ShiroSessionListener:44- 127.0.0.1会话过期 204d4f09-6130-4f67-952d-9aa29b72a94c
+19:04:15.861 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13888 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+19:04:15.876 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+19:04:24.481 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.882 seconds (JVM running for 21.494)
+19:04:43.154 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 ae65a422-a905-4806-8ce5-502679c9c8d1
+19:05:33.833 [http-nio-8086-exec-7] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+19:05:34.217 [http-nio-8086-exec-7] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+19:05:34.267 [http-nio-8086-exec-7] INFO  c.example.bootdemo.shiro.CustomRealm:48- 用户POSTMAN5尝试访问非普通用户权限接口
+19:05:34.493 [http-nio-8086-exec-6] INFO  c.example.bootdemo.shiro.CustomRealm:48- 用户POSTMAN5尝试访问非普通用户权限接口
+19:05:37.995 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:100- 【注解：Around . 环绕前】方法环绕start.....
+19:05:37.997 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:59- 【注解：Before】------------------切面  before
+19:05:38.000 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:63- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test4
+19:05:38.000 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:64- 【注解：Before】HTTP_METHOD : POST
+19:05:38.001 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:65- 【注解：Before】IP : 127.0.0.1
+19:05:38.004 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:66- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test4
+19:05:38.005 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:67- 【注解：Before】业务方法获得的参数=ARGS : []
+19:05:38.006 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:104- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@2e6bd572
+19:05:38.007 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:92- 【注解：After】方法最后执行.....
+19:05:38.008 [http-nio-8086-exec-5] INFO  c.example.bootdemo.Aspect.TestAspect:76- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@2e6bd572
+19:05:59.164 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:100- 【注解：Around . 环绕前】方法环绕start.....
+19:05:59.165 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:59- 【注解：Before】------------------切面  before
+19:05:59.166 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:63- 【注解：Before】浏览器输入的网址=URL : http://127.0.0.1:8086/test/test4
+19:05:59.166 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:64- 【注解：Before】HTTP_METHOD : POST
+19:05:59.168 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:65- 【注解：Before】IP : 127.0.0.1
+19:05:59.168 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:66- 【注解：Before】执行的业务方法名=CLASS_METHOD : com.example.bootdemo.controller.TestController.test4
+19:05:59.169 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:67- 【注解：Before】业务方法获得的参数=ARGS : []
+19:05:59.170 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:104- 【注解：Around. 环绕后】方法环绕proceed，结果是 :com.example.bootdemo.vo.ResultVo@53adf744
+19:05:59.170 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:92- 【注解：After】方法最后执行.....
+19:05:59.171 [http-nio-8086-exec-4] INFO  c.example.bootdemo.Aspect.TestAspect:76- 【注解：AfterReturning】这个会在切面最后的最后打印，方法的返回值 : com.example.bootdemo.vo.ResultVo@53adf744
+19:09:43.781 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14560 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+19:09:43.792 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+19:09:52.062 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.385 seconds (JVM running for 19.098)
+19:10:03.961 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 10b4e2d2-7927-442e-a1ee-8ebb028c7509
+19:10:24.473 [http-nio-8086-exec-9] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+19:10:25.321 [http-nio-8086-exec-9] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+19:23:18.333 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 13444 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+19:23:18.345 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+19:23:25.241 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 8.115 seconds (JVM running for 18.264)
+19:23:28.901 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 b131fe9f-0509-41c4-bae1-217c7e8fcabe
+19:23:41.933 [http-nio-8086-exec-2] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 7bc1613a-c22f-4d06-9edd-fb63bffb152b
+19:23:44.199 [http-nio-8086-exec-3] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 aaf9c1be-b6b2-486a-8920-024d2d8e3b0a
+19:24:29.445 [http-nio-8086-exec-4] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 c677cd7b-65a2-4c13-b95a-555636ae0e74
+19:24:30.612 [http-nio-8086-exec-5] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 57b08c90-4dd6-4cd6-bcc7-8a6d0fa4db2e
+20:04:39.671 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 6784 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+20:04:39.687 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+20:04:48.190 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.703 seconds (JVM running for 20.036)
+20:05:20.619 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 549f25e9-1d11-42ac-b3ea-fc84dab7ac44
+20:16:42.663 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 1496 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+20:16:42.673 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+20:16:50.536 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 11.34 seconds (JVM running for 21.903)
+20:16:54.216 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 77755d2e-46eb-446c-8a5a-4971fcf54aa6
+21:01:54.079 [SessionValidationThread-1] INFO  c.e.b.listener.ShiroSessionListener:44- 127.0.0.1会话过期 77755d2e-46eb-446c-8a5a-4971fcf54aa6
+21:12:06.917 [http-nio-8086-exec-5] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 9bbe3f7a-ee04-41e4-87bd-6f8171d3a4d6
+21:28:33.117 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 14816 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+21:28:33.123 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+21:28:41.553 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 9.593 seconds (JVM running for 21.248)
+21:28:49.842 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 32fe597b-13ee-40d0-8aa0-37d409c59b3a
+21:29:52.549 [http-nio-8086-exec-3] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+21:29:53.151 [http-nio-8086-exec-3] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+21:29:53.268 [http-nio-8086-exec-3] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:32fe597b-13ee-40d0-8aa0-37d409c59b3a 用户9登录了
+21:31:38.252 [http-nio-8086-exec-7] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 16b997d1-9388-4921-809e-1cf3b4f8df3f
+21:34:42.421 [main] INFO  c.e.bootdemo.BootdemoApplication:50- Starting BootdemoApplication on DESKTOP-BAONM0C with PID 17868 (E:\code\php\bootdemo\target\classes started by qq491 in E:\code\php\bootdemo)
+21:34:42.429 [main] INFO  c.e.bootdemo.BootdemoApplication:648- No active profile set, falling back to default profiles: default
+21:34:50.202 [main] INFO  c.e.bootdemo.BootdemoApplication:59- Started BootdemoApplication in 8.923 seconds (JVM running for 21.034)
+21:35:02.448 [http-nio-8086-exec-10] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 b96ba71d-7f78-43fa-b11f-9016f14923c4
+21:35:02.607 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+21:35:03.213 [http-nio-8086-exec-10] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+21:35:03.426 [http-nio-8086-exec-10] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:b96ba71d-7f78-43fa-b11f-9016f14923c4 用户9登录了
+21:35:35.421 [http-nio-8086-exec-8] INFO  c.e.b.listener.ShiroSessionListener:34- 127.0.0.1会话主动登出 b96ba71d-7f78-43fa-b11f-9016f14923c4
+21:36:01.204 [http-nio-8086-exec-5] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 c50b46b2-8fe2-4e8c-b32f-774f53070a3c
+21:36:01.213 [http-nio-8086-exec-5] INFO  c.e.b.controller.LoginController:46- 127.0.0.1 SessionID:c50b46b2-8fe2-4e8c-b32f-774f53070a3c 用户9登录了
+21:38:33.503 [http-nio-8086-exec-1] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 28c0ee45-82ee-49bf-a2e2-46a6e825358d
+21:40:42.669 [http-nio-8086-exec-7] INFO  c.e.b.listener.ShiroSessionListener:24- 127.0.0.1建立会话 863b60e9-fb99-4060-b161-907d38d90d47
